@@ -1,0 +1,41 @@
+
+
+  // var Song = function(name, artist, time, genre){
+
+  //   this.name = name;
+  //   this.artist = artist;
+  //   this.time = length;
+  //   this.genre = genre;
+  // };
+
+  // Song.prototype.toString = function() {
+  //   return (this.name+" by "+this.artist+" in "+this.genre);
+  // };
+
+  // var Playlist = function(title){
+  //   this.title = title;
+  //   this.songs = [];
+  // };
+
+  // Playlist.prototype.addSong = function(song){
+  //    this.songs.push(song);
+  //    return song.name+"added to"+this.title;
+  // };
+
+  // Playlist.prototype.findSong = function(song){
+  //   var index = this.indexOf(song);
+  //   if(index === -1)
+  //     return song.name+" is not in "+this.title;
+  //   else return song.name+" is number "+(index+1)+" in "+this.title;
+  // };
+
+  // Playlist.prototype.play = function(displayId) {
+  //   this.songs.forEach(function(song){
+  //     setTimeout(function(){
+  //       $(displayId).html(song.toString)});
+  //   });
+  // };
+
+
+
+
